@@ -1,7 +1,7 @@
 # Cool Poetry Generator
 This is a cool poetry generator written in the goat, the king, the **ONE**, C++.
 ## Why?
-I originally had the idea while in the shower and expanded upon it while at w*rk in a notebook, _pretty cool_ right?
+I originally had the idea while in the shower and expanded upon it while at w*rk in a notebook, _pretty cool right?_
 ## HOW DO I RUN IT?!?!?!?!?!?!
 Compile it using 
 
